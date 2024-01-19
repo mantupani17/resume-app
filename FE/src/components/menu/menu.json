@@ -1,0 +1,9 @@
+{
+  "defaultMenus": [
+    {"title": "Account Book", "link": ""},
+    {"title": "Home", "link": ""},   
+    {"title": "Contact", "link": "/contact"},   
+    {"title": "About Us", "link": "/about-us"}  
+  ] ,
+  "loginMenus": []    
+}
